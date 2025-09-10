@@ -12,7 +12,7 @@ public class Q4{
         else if(b>a && b>c){
             System.out.println(b);
         }
-        else{
+        else {
             System.out.println(c);
         }
     }
