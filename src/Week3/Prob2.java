@@ -1,3 +1,5 @@
+package Week3;
+
 import java.util.*;
 class Student{
     Scanner sc=new Scanner(System.in);

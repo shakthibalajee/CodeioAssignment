@@ -1,3 +1,5 @@
+package Week3;
+
 import java.util.*;
 class Rectangle {
     int length;

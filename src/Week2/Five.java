@@ -1,3 +1,5 @@
+package Week2;
+
 import java.util.*;
 public class Five{
     public static void main(String args[]){
