@@ -7,14 +7,14 @@ abstract class Employee{
 class Developer extends Employee{
     @Override
     void getBonus(){
-        System.out.println("Developer Bonus: Rs.2500");
+        System.out.println(" Developer Bonus: Rs.2500");
     }
 }
 
 class Manager extends Employee{
     @Override
     void getBonus(){
-        System.out.println("Manager Bonus: Rs.5000");
+        System.out.println(" Manager Bonus: Rs.5000");
     }
 }
 

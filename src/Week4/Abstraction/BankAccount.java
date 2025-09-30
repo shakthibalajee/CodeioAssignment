@@ -27,7 +27,7 @@ class SavingsAccount extends bankAccounts{
             balance -= amount;
         }
         else{
-            System.out.println("Insufficient Minimum balance...");
+            System.out.println(" Insufficient Minimum balance...");
         }
     }
     void displayBalance(){

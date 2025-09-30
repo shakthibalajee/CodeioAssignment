@@ -51,7 +51,7 @@ public class ShapeArea {
         // Shape Reference array
         Shape[] shapeArray = {new Circle(radius),new Rectangle(length,width),new Triangle(base,height)};
         for(Shape s:shapeArray){
-            System.out.println("Area: " + s.area());
+            System.out.println("Area: "  + s.area());
         }
     }
 }
